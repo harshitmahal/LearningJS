@@ -25,14 +25,32 @@ let booleanisLoggedIn = Boolean(isLoggedIn);
 
 let val = 3;
 let negVal = -val;
-console.log(negVal);
+// console.log(negVal);
 
-console.log(2+2);
-console.log(2-2);
-console.log(2*2);
-console.log(2**3);
-console.log(2/4);
-console.log(2%3);
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/4);
+// console.log(2%3);
+
+
+// console.log(1+2);
+// console.log(1+"2");
+// console.log(1+2+"2");
+// console.log("1"+(2 +2));
+// console.log("1"+2+2);
+
+// console.log(+true);
+// console.log(+"");
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
+
+
+
+
 
 
 
